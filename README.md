@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijan Bhandari</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijan-61&label=Profile%20views&color=0e75b6&style=flat" alt="srijan-61" /> </p>
+
 # 💫 About Me:
 <br>
 🌱 I’m currently learning MERN stack, CSS and JS frameworks.<br>🎓 I’m currently studying BSc (Hons) Computing at Islington College, London Metropolitan University.<br>💬 Ask me about Python, JS, Flask, Microcontrollers.<br>📫 How to reach me bhandarisrijan321@gmail.com<br>⚡ Fun fact: I'm equally excited by writing Python code and wiring up microcontrollers. I love tinkering with IoT projects, Arduino, and Raspberry Pi, and I enjoy PC building and keeping up with the latest tech hardware trends.
