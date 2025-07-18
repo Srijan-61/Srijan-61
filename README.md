@@ -3,7 +3,6 @@
 
 
 # 💫 About Me:
-<br>
 🌱 I’m currently learning MERN stack, CSS and JS frameworks.<br>🎓 I’m currently studying BSc (Hons) Computing at Islington College, London Metropolitan University.<br>💬 Ask me about Python, JS, Flask, Microcontrollers.<br>📫 How to reach me bhandarisrijan321@gmail.com<br>⚡ Fun fact: I'm equally excited by writing Python code and wiring up microcontrollers. I love tinkering with IoT projects, Arduino, and Raspberry Pi, and I enjoy PC building and keeping up with the latest tech hardware trends.
 
 
