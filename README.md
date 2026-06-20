@@ -7,7 +7,7 @@
 *  **Ask me about:** C#, ASP.NET Core, React, SQL, and Cloud Deployments.
 *  **Reach me at:** bhandarisrijan321@gmail.com
 
-#  Tech Stack
+# Tech Stack
 
 ### Enterprise & Backend
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,7 +18,7 @@
 ### Databases, Cloud & Tools
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#  Current Focus
+# Current Focus
 * Designing and implementing multi-tier backend architectures using **Clean Architecture** principles.
 * Utilizing Entity Framework Core for database normalization and complex relational SQL mapping.
 * Containerizing full-stack environments (.NET API + React) using **Docker** and successfully deploying to **AWS** infrastructure.
